@@ -12,7 +12,7 @@ print("The current time is: ",timestamp)
 #     print("!!Good Night!!")
 
 if(int(time.strftime("%H"))<12):
-    print("!!Good Morning!!")
+    print("!!Good Morninggg!!")
 elif(int(time.strftime("%H"))>12 and int(time.strftime("%H"))<18):
     print("!!Good Afternoon!!")
 elif(int(time.strftime("%H"))>18 and int(time.strftime("%H"))<21):
